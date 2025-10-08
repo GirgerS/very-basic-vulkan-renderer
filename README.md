@@ -1,4 +1,13 @@
-## Info
+## Glorious Utah teapot
+
+<p align=center>
+    <img src="./preview/preview.png" width=600 height=400>
+</p>
+<p align=center>
+    <sub>Thats it, the entirety of the renderer... But! You can try to walk into the teapot </sub>
+</p>
+
+
 This repository contains a VERY basic vulkan renderer based on the following tutorial: https://vulkan-tutorial.com/Introduction
 
 Everything related to 3D was written from scratch, thanks to https://www.scratchapixel.com
